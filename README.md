@@ -1,17 +1,15 @@
-![LJ Inventory](https://user-images.githubusercontent.com/91661118/146313051-665337bf-ed92-4ed0-bbb9-6ee9613f670d.png)
+![LJ Inventory](https://i.imgur.com/1HM4GVB.png)
 
-# lj-inventory used with QBCore Framework
+# Burn One Studios CSS edit of lj-inventory used with QBCore Framework, We made this!
 
-Join my Discord laboratory for updates, support, and special early testing!
+Are you looking for High Quality FiveM Scripts or Need help starting a server? 
+
+Join Burn One Studios today!
 <br>
-https://discord.gg/projectsloth
-
-So, I know the NoPixel 3.5 inventory update is a very controversial topic for most people. I wasn't a huge fan of it myself at first, but I liked the overall idea and concept behind it. So, here's my own take and spin on the design. This is was made off the awesome inventory [ihyajb](https://github.com/ihyajb) made
-<br>
+https://discord.gg/Th4zzn5KHA
 
 Runs at ~ 0.00 to 0.01 ms if you have more optimization suggestions feel free to reach out
 
-In collaboration with [OnlyCats](https://github.com/onlycats) who helped reorganized and also created some custom images.
 # Dependencies
 * [qbcore framework](https://github.com/qbcore-framework)
 * [qb-target](https://github.com/BerkieBb/qb-target)
@@ -47,32 +45,18 @@ In collaboration with [OnlyCats](https://github.com/onlycats) who helped reorgan
 ### simple guideline psd provided (found in main directory lj-inventory)
 ![lj-inventory Guideline](https://user-images.githubusercontent.com/91661118/146315681-c67f542d-e2bc-43ca-9957-7f1971b84268.png)
 ### full inventory
-![full inventory](https://user-images.githubusercontent.com/91661118/146315750-1199a37e-88e0-4d48-86d3-ae0b85df6a72.png)
+![full inventory](https://i.imgur.com/lLJZfwE.png)
 ### options menu
-![options menu](https://user-images.githubusercontent.com/91661118/147011228-ee6c9c0c-0058-4418-8c5f-c484f2f621f7.png)
+![options menu](https://i.imgur.com/SHgOdyb.png)
 ### help box
-![help box](https://user-images.githubusercontent.com/91661118/147011242-bb98e650-12c4-43d9-9a93-afa8edcecd90.png)
+![help box](https://i.imgur.com/x703mpZ.png)
 ### hotbar slots
-![hotbar slots](https://user-images.githubusercontent.com/91661118/146315788-3af800e4-af26-4e9a-85be-bd0035689b70.png)
+![hotbar slots](https://i.imgur.com/UERoBDI.png)
 ### used & removed itembox 
-![used & removed itembox](https://user-images.githubusercontent.com/91661118/146315886-f488cc39-7e2a-4186-8ab9-4f9540ff6575.png)
-### inventory shops
-![inventory shops](https://user-images.githubusercontent.com/91661118/146316063-1111699b-691d-482a-8bf0-6070f1485614.png)
-### inventory glovebox
-![inventory glovebox](https://user-images.githubusercontent.com/91661118/146316143-5d554103-e331-4ad0-a7e1-af44f76b5f36.png)
-### inventory trunk
-![inventory trunk](https://user-images.githubusercontent.com/91661118/146316079-b0260b68-78c0-4266-976d-a527264491f3.png)
-
-# Change Logs
-
-### 1.1
-* Added help information box (helps you learn how to use inventory better)
-* Added option to turn on and off blur effect
-* Added qb-target for crafting - Boom1053
-### 1.0
-* Initial release
+![used & removed itembox](https://i.imgur.com/JXXLuXL.png)
 
 # Credits
+* loljoshie for doing whatever changes he made + UI Overhaul
 * ihyajb (Aj) for [original version](https://github.com/ihyajb/aj-inventory)
 
 # Issues and Suggestions
