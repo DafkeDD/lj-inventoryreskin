@@ -2321,7 +2321,7 @@ var requiredItemOpen = false;
                 } else if (item.info.quality > 25 && item.info.quality < 50) {
                     QualityColor = "rgb(230, 126, 34)";
                 } else if (item.info.quality >= 50) {
-                    QualityColor = "rgb(15, 255, 213)";
+                    QualityColor = "rgb(52, 235, 76)";
                 }
                 if (item.info.quality !== undefined) {
                     qualityLabel = item.info.quality.toFixed();
